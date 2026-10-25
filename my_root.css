@@ -1,0 +1,22 @@
+:root {
+  /* Backgrounds */
+  --bg:           #0A0A0F;
+  --surface:      #141420;
+
+  /* Accents */
+  --primary:      #00F5C4;
+  --secondary:    #F5A623;
+
+  /* Text */
+  --text:         #B8BCC8;
+
+  /* Transparents */
+  --primary-dim:  rgba(0, 245, 196, 0.08);
+  --primary-glow: rgba(0, 245, 196, 0.15);
+  --border:       rgba(0, 245, 196, 0.2);
+  --overlay:      rgba(10, 10, 15, 0.85);
+
+  /* Utilities */
+  --radius:       12px;
+  --transition:   all 0.3s ease;
+}
